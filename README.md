@@ -1,6 +1,6 @@
 <!-- Баннер / заголовок -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Here%20we%go%again!&animation=fadeIn&type=waving&color=gradient" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?text=Here%20we%20go%20again&animation=fadeIn&type=waving&color=gradient&height=200&fontSize=50" alt="banner" />
 </p>
 
 [![Telegram](https://img.shields.io/badge/Telegram-@твой_логин-blue?logo=telegram)](https://t.me/твой_логин)  
