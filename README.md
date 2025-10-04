@@ -29,55 +29,35 @@
 
 ---
 
-## 🛠 Tech Stack
+## 🔥 Tech stack
 
-> General  
-javascript  
-typescript  
-html5  
-css3  
-git  
-docker  
-npm  
-yarn  
-github  
+### 🧩 General
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,figma,git,yarn,npm,github,docker" />
+</p>
 
-> Testing  
-Jest  
-react-testing-library  
-storybook  
-cypress  
-playwright  
-puppeteer  
+### 🧪 Testing
+<p>
+  <img src="https://skillicons.dev/icons?i=jest,testinglibrary,storybook,cypress,playwright,puppeteer" />
+</p>
 
-> Code quality  
-eslint  
-prettier  
-stylelint  
+### 🧹 Code quality
+<p>
+  <img src="https://skillicons.dev/icons?i=eslint,prettier,stylelint" />
+</p>
 
-> Frontend  
-React  
-Next JS  
-Redux  
-Mobx  
-Tailwind  
-Sass  
-Webpack  
-Vite  
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,mobx,materialui,gatsby,bootstrap" />
+</p>
 
-> Mobile  
-React Native  
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,mongodb,postgres,firebase" />
+</p>
 
-> Backend  
-Node JS  
-Express / Nest JS  
-GraphQL  
-MongoDB  
-PostgreSQL  
-Firebase  
-
-> Other  
-electron  
-
----
+### 🧭 Other
+<p>
+  <img src="https://skillicons.dev/icons?i=electron" />
+</p>
 
