@@ -29,3 +29,55 @@
 
 ---
 
+## 🛠 Tech Stack
+
+> General  
+javascript  
+typescript  
+html5  
+css3  
+git  
+docker  
+npm  
+yarn  
+github  
+
+> Testing  
+Jest  
+react-testing-library  
+storybook  
+cypress  
+playwright  
+puppeteer  
+
+> Code quality  
+eslint  
+prettier  
+stylelint  
+
+> Frontend  
+React  
+Next JS  
+Redux  
+Mobx  
+Tailwind  
+Sass  
+Webpack  
+Vite  
+
+> Mobile  
+React Native  
+
+> Backend  
+Node JS  
+Express / Nest JS  
+GraphQL  
+MongoDB  
+PostgreSQL  
+Firebase  
+
+> Other  
+electron  
+
+---
+
