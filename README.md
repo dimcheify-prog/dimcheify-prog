@@ -1,72 +1,31 @@
 <!-- Баннер / заголовок -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hello%20World!&animation=fadeIn&type=waving&color=gradient" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?text=Here%20we%go%again!&animation=fadeIn&type=waving&color=gradient" alt="banner" />
 </p>
 
-# Привет 👋, я **Dimcheify-Prog**
+[![Telegram](https://img.shields.io/badge/Telegram-@твой_логин-blue?logo=telegram)](https://t.me/твой_логин)  
 
-**Frontend / Fullstack разработчик**  
-Я создаю интерфейсы и приложения, использую современные технологии.
-
-- Я работаю или интересуюсь направлениями: *твоя текущая работа или цель*  
-- Разрабатываю приложения с использованием **TypeScript / JavaScript**  
-- Люблю делиться знаниями / вести блог / YouTube / соцсети  
-
----
-
-## 📦 Мои пакеты / проекты
-
-*(Подобно тому, как у debabin: “Siberia Can Code Packages”)*  
-Вот некоторые мои работы:
+## 📦 My packages
 
 - **project-one** — короткое описание  
 - **awesome-app** — что делает  
-- **another-tool** — утилита / библиотека  
-- **library-xyz** — что-то очень полезное  
 
 ---
 
-## 🛠 Технологии / стек
+## 🛠 Tech Stack
 
-> Общие  
-JavaScript • TypeScript • HTML5 • CSS3 • Git • GitHub • Docker • Vite  
-
-> Фронтенд  
-React • Next.js • Redux / MobX • Tailwind • SCSS  
-
-> Тестирование  
-Jest • React Testing Library • Cypress • Playwright  
-
-> Бэкенд  
-Node.js • Express / NestJS • GraphQL • MongoDB / PostgreSQL  
-
-> Прочее  
-ESLint • Prettier • Storybook  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff)
+![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=fff)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=fff)
 
 ---
 
-## ☄️ Контакты / соцсети
-
-[![Telegram](https://img.shields.io/badge/Telegram-@твой_логин-blue?logo=telegram)](https://t.me/твой_логин)  
-[![YouTube](https://img.shields.io/badge/YouTube-YourChannel-red?logo=youtube)](https://www.youtube.com/твoй_канал)  
-[![GitHub](https://img.shields.io/badge/GitHub-dimcheify--prog-black?logo=github)](https://github.com/dimcheify-prog)  
-
----
-
-## 📊 Статистика GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dimcheify-prog&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
----
-
-## ⚡ Немного обо мне
-
-> «Краткая цитата или девиз»
-
-- Я увлечён фронтендом, но не прочь погрузиться в бэкенд  
-- Постоянно учусь новому и участвую в open source  
-- Готов к коллаборациям — пиши, если есть идеи  
-
-Спасибо, что заглянул(а) 👀  
