@@ -32,9 +32,9 @@
 ## 🔥 Tech stack
 
 ### 🧩 General
-<p>
+<kdb>
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,figma,git,yarn,npm,github,docker" />
-</p>
+</kdb>
 
 ### 🧪 Testing
 <p>
