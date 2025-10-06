@@ -52,7 +52,7 @@
   <img src="https://skillicons.dev/icons?i=pnpm" width="48" /> <br>pnpm &nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=github" width="48" /> <br>github &nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=docker" width="48" /> <br>docker
-</p>
+</p> 
 
 ### 🧩 General
 <kdb>
