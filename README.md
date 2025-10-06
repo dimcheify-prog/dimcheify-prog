@@ -40,7 +40,6 @@
 ## 🔥 Tech stack
 
 ### 🧩 General
-| javascript | typescript | html5 | css3 | figma | git | yarn | npm | pnpm | github | docker |
 |:-----------:|:-----------:|:------:|:------:|:------:|:----:|:----:|:----:|:----:|:------:|:------:|
 | <img src="https://skillicons.dev/icons?i=js" width="40" /> | <img src="https://skillicons.dev/icons?i=ts" width="40" /> | <img src="https://skillicons.dev/icons?i=html" width="40" /> | <img src="https://skillicons.dev/icons?i=css" width="40" /> | <img src="https://skillicons.dev/icons?i=figma" width="40" /> | <img src="https://skillicons.dev/icons?i=git" width="40" /> | <img src="https://skillicons.dev/icons?i=yarn" width="40" /> | <img src="https://skillicons.dev/icons?i=npm" width="40" /> | <img src="https://skillicons.dev/icons?i=pnpm" width="40" /> | <img src="https://skillicons.dev/icons?i=github" width="40" /> | <img src="https://skillicons.dev/icons?i=docker" width="40" /> |
 
