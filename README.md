@@ -40,19 +40,31 @@
 ## 🔥 Tech stack
 
 ### 🧩 General
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js" width="48" /> <br>javascript &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=ts" width="48" /> <br>typescript &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=html" width="48" /> <br>html5 &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=css" width="48" /> <br>css3 &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=figma" width="48" /> <br>figma &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=git" width="48" /> <br>git &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=yarn" width="48" /> <br>yarn &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=npm" width="48" /> <br>npm &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=pnpm" width="48" /> <br>pnpm &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=github" width="48" /> <br>github &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=docker" width="48" /> <br>docker
-</p>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" /><br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" /><br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" /><br>HTML5
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" /><br>CSS3
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" /><br>Figma
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /><br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" /><br>Docker
+    </td>
+  </tr>
+</table>
 
 ---
 
