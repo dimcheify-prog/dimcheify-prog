@@ -40,8 +40,19 @@
 ## 🔥 Tech stack
 
 ### 🧩 General
-|:-----------:|:-----------:|:------:|:------:|:------:|:----:|:----:|:----:|:----:|:------:|:------:|
-| <img src="https://skillicons.dev/icons?i=js" width="40" /> | <img src="https://skillicons.dev/icons?i=ts" width="40" /> | <img src="https://skillicons.dev/icons?i=html" width="40" /> | <img src="https://skillicons.dev/icons?i=css" width="40" /> | <img src="https://skillicons.dev/icons?i=figma" width="40" /> | <img src="https://skillicons.dev/icons?i=git" width="40" /> | <img src="https://skillicons.dev/icons?i=yarn" width="40" /> | <img src="https://skillicons.dev/icons?i=npm" width="40" /> | <img src="https://skillicons.dev/icons?i=pnpm" width="40" /> | <img src="https://skillicons.dev/icons?i=github" width="40" /> | <img src="https://skillicons.dev/icons?i=docker" width="40" /> |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js" width="48" /> <br>javascript &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=ts" width="48" /> <br>typescript &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" width="48" /> <br>html5 &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" width="48" /> <br>css3 &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=figma" width="48" /> <br>figma &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" width="48" /> <br>git &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=yarn" width="48" /> <br>yarn &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=npm" width="48" /> <br>npm &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=pnpm" width="48" /> <br>pnpm &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" width="48" /> <br>github &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=docker" width="48" /> <br>docker
+</p>
 
 ### 🧩 General
 <kdb>
