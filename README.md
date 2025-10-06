@@ -53,6 +53,7 @@
 </table>
 
 ---
+
 ### 🧪 Testing
 <table>
   <tr>
@@ -93,11 +94,21 @@
 ### 🎨 Frontend
 <table>
   <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=react" width="48"/><br>React</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nextjs" width="48"/><br>Next.js</td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="48"/><br>Redux</td>
-    <td align="center" width="96"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mobx.svg" width="48"/><br>MobX</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=materialui" width="48"/><br>Material UI</td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=react" width="48"/><br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="48"/><br>Next.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="48"/><br>Redux
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mobx.svg" width="48" style="filter:none"/><br>MobX
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=materialui" width="48"/><br>Material UI
+    </td>
   </tr>
 </table>
 
@@ -106,7 +117,9 @@
 ### 📱 Mobile
 <table>
   <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=react" width="48"/><br>React Native</td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=react" width="48"/><br>React Native
+    </td>
   </tr>
 </table>
 
@@ -115,6 +128,20 @@
 ### ⚙️ Backend
 <table>
   <tr>
-    <td align="center" width="96"><img src="htt
-
-
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=express" width="48"/><br>Express
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/fastify.svg" width="48"/><br>Fastify
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postgres" width="48"/><br>Postgres
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48"/><br>MySQL
+    </td>
+  </tr>
+</table>
