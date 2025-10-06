@@ -40,78 +40,37 @@
 ## 🔥 Tech stack
 
 ### 🧩 General
-<table>
-  <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=js" width="48"/><br>JavaScript</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=ts" width="48"/><br>TypeScript</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="48"/><br>HTML5</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=css" width="48"/><br>CSS3</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=figma" width="48"/><br>Figma</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="48"/><br>Git</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=docker" width="48"/><br>Docker</td>
-  </tr>
-</table>
-
----
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,figma,git,github,docker" />
+</p>
 
 ### 🧪 Testing
-<table>
-  <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=jest" width="48"/><br>Jest</td>
-    <td align="center" width="96"><img src="https://testing-library.com/img/octopus-128x128.png" width="48"/><br>Testing Library</td>
-    <td align="center" width="96"><img src="https://raw.githubusercontent.com/storybookjs/brand/main/badge/badge-storybook.svg" width="48"/><br>Storybook</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vitest" width="48"/><br>Vitest</td>
-  </tr>
-</table>
-
----
+<p>
+  <img src="https://skillicons.dev/icons?i=jest,vitest" />
+  <img src="https://testing-library.com/img/octopus-128x128.png" width="48" height="48" alt="Testing Library"/>
+  <img src="https://raw.githubusercontent.com/storybookjs/brand/main/badge/badge-storybook.svg" width="48" height="48" alt="Storybook"/>
+</p>
 
 ### 🧹 Code quality
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" width="48"/><br>ESLint
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prettier/prettier-original.svg" width="48"/><br>Prettier
-    </td>
-    <td align="center" width="96">
-      <img src="https://avatars.githubusercontent.com/u/2498506?s=200&v=4" width="48"/><br>Stylelint
-    </td>
-  </tr>
-</table>
-
----
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" width="48" height="48" alt="ESLint"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prettier/prettier-original.svg" width="48" height="48" alt="Prettier"/>
+  <img src="https://avatars.githubusercontent.com/u/2498506?s=200&v=4" width="48" height="48" alt="Stylelint"/>
+</p>
 
 ### 🎨 Frontend
-<table>
-  <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=react" width="48"/><br>React</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nextjs" width="48"/><br>Next.js</td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="48"/><br>Redux</td>
-    <td align="center" width="96"><img src="https://raw.githubusercontent.com/mobxjs/mobx/main/packages/mobx-logo/src/assets/mobx.png" width="48"/><br>MobX</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=materialui" width="48"/><br>Material UI</td>
-  </tr>
-</table>
-
----
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,materialui" />
+  <img src="https://raw.githubusercontent.com/mobxjs/mobx/main/packages/mobx-logo/src/assets/mobx.png" width="48" height="48" alt="MobX"/>
+</p>
 
 ### 📱 Mobile
-<table>
-  <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=react" width="48"/><br>React Native</td>
-  </tr>
-</table>
-
----
+<p>
+  <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React Native"/>
+</p>
 
 ### ⚙️ Backend
-<table>
-  <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br>Node.js</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=express" width="48"/><br>Express</td>
-    <td align="center" width="96"><img src="https://www.vectorlogo.zone/logos/fastify/fastify-icon.svg" width="48"/><br>Fastify</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgres" width="48"/><br>PostgreSQL</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mysql" width="48"/><br>MySQL</td>
-  </tr>
-</table>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql" />
+  <img src="https://www.vectorlogo.zone/logos/fastify/fastify-icon.svg" width="48" height="48" alt="Fastify"/>
+</p>
