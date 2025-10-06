@@ -53,14 +53,21 @@
 </table>
 
 ---
-
 ### 🧪 Testing
 <table>
   <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=jest" width="48"/><br>Jest</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vitest" width="48"/><br>Vitest</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=react" width="48"/><br>RTL</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br>Playwright</td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=jest" width="48"/><br>Jest
+    </td>
+    <td align="center" width="96">
+      <img src="https://testing-library.com/img/octopus-128x128.png" width="48"/><br>Testing Library
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/storybookjs/brand/main/badge/badge-storybook.svg" width="48"/><br>Storybook
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vitest" width="48"/><br>Vitest
+    </td>
   </tr>
 </table>
 
