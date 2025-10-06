@@ -115,4 +115,3 @@
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mysql" width="48"/><br>MySQL</td>
   </tr>
 </table>
-
