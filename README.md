@@ -57,18 +57,10 @@
 ### 🧪 Testing
 <table>
   <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=jest" width="48"/><br>Jest
-    </td>
-    <td align="center" width="96">
-      <img src="https://testing-library.com/img/octopus-128x128.png" width="48"/><br>Testing Library
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/storybookjs/brand/main/badge/badge-storybook.svg" width="48"/><br>Storybook
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vitest" width="48"/><br>Vitest
-    </td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=jest" width="48"/><br>Jest</td>
+    <td align="center" width="96"><img src="https://testing-library.com/img/octopus-128x128.png" width="48"/><br>Testing Library</td>
+    <td align="center" width="96"><img src="https://raw.githubusercontent.com/storybookjs/brand/main/badge/badge-storybook.svg" width="48"/><br>Storybook</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vitest" width="48"/><br>Vitest</td>
   </tr>
 </table>
 
@@ -84,7 +76,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prettier/prettier-original.svg" width="48"/><br>Prettier
     </td>
     <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Stylelint_logo.svg" width="48"/><br>Stylelint
+      <img src="https://avatars.githubusercontent.com/u/2498506?s=200&v=4" width="48"/><br>Stylelint
     </td>
   </tr>
 </table>
@@ -94,21 +86,11 @@
 ### 🎨 Frontend
 <table>
   <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=react" width="48"/><br>React
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="48"/><br>Next.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="48"/><br>Redux
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mobx.svg" width="48" style="filter:none"/><br>MobX
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=materialui" width="48"/><br>Material UI
-    </td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=react" width="48"/><br>React</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nextjs" width="48"/><br>Next.js</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="48"/><br>Redux</td>
+    <td align="center" width="96"><img src="https://raw.githubusercontent.com/mobxjs/mobx/main/packages/mobx-logo/src/assets/mobx.png" width="48"/><br>MobX</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=materialui" width="48"/><br>Material UI</td>
   </tr>
 </table>
 
@@ -117,9 +99,7 @@
 ### 📱 Mobile
 <table>
   <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=react" width="48"/><br>React Native
-    </td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=react" width="48"/><br>React Native</td>
   </tr>
 </table>
 
@@ -128,20 +108,11 @@
 ### ⚙️ Backend
 <table>
   <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br>Node.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=express" width="48"/><br>Express
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=fastify" width="48"/><br>Fastify
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postgres" width="48"/><br>Postgres
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mysql" width="48"/><br>MySQL
-    </td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br>Node.js</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=express" width="48"/><br>Express</td>
+    <td align="center" width="96"><img src="https://www.vectorlogo.zone/logos/fastify/fastify-icon.svg" width="48"/><br>Fastify</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgres" width="48"/><br>PostgreSQL</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mysql" width="48"/><br>MySQL</td>
   </tr>
 </table>
+
