@@ -1,14 +1,22 @@
+ 
 <!-- Баннер / заголовок -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Here%20we%20go%20again&animation=fadeIn&type=waving&color=gradient&height=200&fontSize=50" alt="banner" />
 </p>
 
-[![Telegram](https://img.shields.io/badge/Telegram-@твой_логин-blue?logo=telegram)](https://t.me/твой_логин)  
+[![Telegram](https://img.shields.io/badge/Telegram-@dimcheify-blue?logo=telegram)](https://t.me/@dimcheify)  
 
 ## 📦 My packages
 
-- **project-one** — короткое описание  
-- **awesome-app** — что делает  
+- **UI Library** — WIP
+
+## 🚀 Fun project and some experiments
+
+- **JWT Auth** - https://github.com/dimcheify-prog/auth
+- **Simple FSD in React** - https://github.com/dimcheify-prog/react-users
+- **Poor OZON store** - https://github.com/dimcheify-prog/mimimi
+- **Simple SSR with JSX** - https://github.com/dimcheify-prog/simple-SSR-with-JSX
+- **Scalable project in React (experiments)** - https://github.com/dimcheify-prog/weirdo
 
 ---
 
