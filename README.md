@@ -39,14 +39,30 @@
 
 ## 🔥 Tech stack
 
+## General 
+
+<p align="center" style="display:flex; flex-wrap:wrap; gap:8px; justify-content:center;">
+  <img src="https://skillicons.dev/icons?i=js" style="border:1px solid #333; border-radius:8px; padding:4px;" />
+  <img src="https://skillicons.dev/icons?i=ts" style="border:1px solid #333; border-radius:8px; padding:4px;" />
+  <img src="https://skillicons.dev/icons?i=html" style="border:1px solid #333; border-radius:8px; padding:4px;" />
+  <img src="https://skillicons.dev/icons?i=css" style="border:1px solid #333; border-radius:8px; padding:4px;" />
+  <img src="https://skillicons.dev/icons?i=figma" style="border:1px solid #333; border-radius:8px; padding:4px;" />
+  <img src="https://skillicons.dev/icons?i=git" style="border:1px solid #333; border-radius:8px; padding:4px;" />
+  <img src="https://skillicons.dev/icons?i=yarn" style="border:1px solid #333; border-radius:8px; padding:4px;" />
+  <img src="https://skillicons.dev/icons?i=npm" style="border:1px solid #333; border-radius:8px; padding:4px;" />
+  <img src="https://skillicons.dev/icons?i=pnpm" style="border:1px solid #333; border-radius:8px; padding:4px;" />
+  <img src="https://skillicons.dev/icons?i=github" style="border:1px solid #333; border-radius:8px; padding:4px;" />
+  <img src="https://skillicons.dev/icons?i=docker" style="border:1px solid #333; border-radius:8px; padding:4px;" />
+</p>
+
 ### 🧩 General
 <kdb>
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,figma,git,yarn,npm,github,docker" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,figma,git,yarn,npm,pnpm,github,docker" />
 </kdb>
 
 ### 🧪 Testing
 <p>
-  <img src="https://skillicons.dev/icons?i=jest,testinglibrary,storybook,cypress,playwright,puppeteer" />
+  <img src="https://skillicons.dev/icons?i=jest,testinglibrary,storybook,vitest" />
 </p>
 
 ### 🧹 Code quality
@@ -56,16 +72,11 @@
 
 ### 🎨 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,mobx,materialui,gatsby,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,mobx,materialui" />
 </p>
 
 ### ⚙️ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,mongodb,postgres,firebase" />
-</p>
-
-### 🧭 Other
-<p>
-  <img src="https://skillicons.dev/icons?i=electron" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastify,postgres,mysql" />
 </p>
 
