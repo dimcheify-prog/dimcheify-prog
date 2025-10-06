@@ -135,7 +135,7 @@
       <img src="https://skillicons.dev/icons?i=express" width="48"/><br>Express
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/fastify.svg" width="48"/><br>Fastify
+      <img src="https://skillicons.dev/icons?i=fastify" width="48"/><br>Fastify
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=postgres" width="48"/><br>Postgres
