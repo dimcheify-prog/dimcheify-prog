@@ -40,13 +40,13 @@
 ### 🧩 General
 <table>
   <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=js" width="48"/><br>JavaScript</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=ts" width="48"/><br>TypeScript</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="48"/><br>HTML5</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=css" width="48"/><br>CSS3</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=figma" width="48"/><br>Figma</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="48"/><br>Git</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=docker" width="48"/><br>Docker</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48"/><br>JavaScript</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48"/><br>TypeScript</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48"/><br>HTML5</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48"/><br>CSS3</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48"/><br>Figma</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48"/><br>Git</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48"/><br>Docker</td>
   </tr>
 </table>
 
@@ -55,18 +55,11 @@
 ### 🧪 Testing
 <table>
   <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=jest" width="48"/><br>Jest
-    </td>
-    <td align="center" width="96">
-      <img src="https://testing-library.com/img/octopus-128x128.png" width="48"/><br>Testing Library
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/storybookjs/brand/main/badge/badge-storybook.svg" width="48"/><br>Storybook
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vitest" width="48"/><br>Vitest
-    </td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="48"/><br>Jest</td>
+    <td align="center" width="96"><img src="https://testing-library.com/img/octopus-128x128.png" width="48"/><br>Testing Library</td>
+    <td align="center" width="96"><img src="https://raw.githubusercontent.com/storybookjs/brand/main/badge/badge-storybook.svg" width="48"/><br>Storybook</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" width="48"/><br>Cypress</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="48"/><br>Playwright</td>
   </tr>
 </table>
 
@@ -75,15 +68,9 @@
 ### 🧹 Code quality
 <table>
   <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" width="48"/><br>ESLint
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prettier/prettier-original.svg" width="48"/><br>Prettier
-    </td>
-    <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Stylelint_logo.svg" width="48"/><br>Stylelint
-    </td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" width="48"/><br>ESLint</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prettier/prettier-original.svg" width="48"/><br>Prettier</td>
+    <td align="center" width="96"><img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Stylelint_logo.svg" width="48"/><br>Stylelint</td>
   </tr>
 </table>
 
@@ -92,21 +79,13 @@
 ### 🎨 Frontend
 <table>
   <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=react" width="48"/><br>React
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="48"/><br>Next.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="48"/><br>Redux
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mobx.svg" width="48" style="filter:none"/><br>MobX
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=materialui" width="48"/><br>Material UI
-    </td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48"/><br>React</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48"/><br>Next.js</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="48"/><br>Redux</td>
+    <td align="center" width="96"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mobx.svg" width="48"/><br>MobX</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="48"/><br>Material UI</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="48"/><br>Vite</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="48"/><br>Tailwind</td>
   </tr>
 </table>
 
@@ -115,9 +94,7 @@
 ### 📱 Mobile
 <table>
   <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=react" width="48"/><br>React Native
-    </td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48"/><br>React Native</td>
   </tr>
 </table>
 
@@ -126,20 +103,11 @@
 ### ⚙️ Backend
 <table>
   <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br>Node.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=express" width="48"/><br>Express
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/fastify.svg" width="48"/><br>Fastify
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postgres" width="48"/><br>Postgres
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mysql" width="48"/><br>MySQL
-    </td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48"/><br>Node.js</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48"/><br>Express</td>
+    <td align="center" width="96"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/fastify.svg" width="48"/><br>Fastify</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48"/><br>PostgreSQL</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48"/><br>MySQL</td>
   </tr>
 </table>
+
