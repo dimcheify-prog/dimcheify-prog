@@ -83,6 +83,8 @@
     <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="48"/><br>Redux</td>
     <td align="center" width="96"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mobx.svg" width="48"/><br>MobX</td>
     <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="48"/><br>Material UI</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="48"/><br>Webpack</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="48"/><br>Vite</td>
   </tr>
 </table>
 
