@@ -246,5 +246,7 @@
       </a>
       <br>Prisma
     </td>
+   <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48"/><br>PostgreSQL</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48"/><br>MySQL</td>
   </tr> 
 </table>
