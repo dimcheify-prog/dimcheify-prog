@@ -8,7 +8,7 @@
 
 ## 📦 My packages
 
-- **UI Library** — WIP
+- **UI Library** — (https://github.com/dimcheify-prog/tiny-kit)  [![npm version](https://badge.fury.io/js/@dimcheify%2Ftiny-kit.svg)](https://www.npmjs.com/package/@dimcheify/tiny-kit)
 
 ## 🚀 Fun project and some experiments
 
